@@ -1,0 +1,5 @@
+
+# Required Python Packages
+RPi.GPIO==0.7.0
+PrettyTable==2.2.1
+colorama==0.4.4
